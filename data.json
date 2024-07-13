@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "feeWallet",
+      "value": "0x6fea40CA7Acd2678C38c9e3aaa7f3e80682e8b66"
+    },
+    {
+      "id": 2,
+      "name": "bscTax",
+      "value": "0"
+    },
+    {
+      "id": 3,
+      "name": "ethTax",
+      "value": "0"
+    },
+    {
+      "id": 4,
+      "name": "arbitrumTax",
+      "value": "0"
+    },
+    {
+      "id": 5,
+      "name": "polygonTax",
+      "value": "0"
+    },
+    {
+      "id": 6,
+      "name": "avalancheTax",
+      "value": "0"
+    },
+    {
+      "id": 7,
+      "name": "fantomTax",
+      "value": "0"
+    },
+    {
+      "id": 8,
+      "name": "twitter",
+      "value": "https://twitter.com/"
+    },
+    {
+      "id": 9,
+      "name": "facebook",
+      "value": "https://www.facebook.com/"
+    },
+    {
+      "id": 10,
+      "name": "telegram",
+      "value": "https://t.me/ZeroxFactory"
+    }
+    
+  ]
+  
